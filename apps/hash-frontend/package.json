@@ -80,7 +80,7 @@
     "graphql": "16.11.0",
     "iframe-resizer": "4.4.5",
     "immer": "9.0.21",
-    "jsonpath": "1.1.1",
+    "jsonpath": "1.2.0",
     "lodash": "4.17.21",
     "marked": "4.3.0",
     "material-ui-popup-state": "4.1.0",
